@@ -1,15 +1,15 @@
-export const jacketsData = [
+export const weightsData = [
     {
-        thumbnail: "/thumbnailjacket1.png",
-        jacket: "/jacket1.png",
+        thumbnail: "/thumbnailweight1.png",
+        weight: "/weight1.png",
     },
     {
-        thumbnail: "/thumbnailjacket2.png",
-        jacket: "/jacket2.png",
+        thumbnail: "/thumbnailweight2.png",
+        weight: "/weight2.png",
     },
     {
-        thumbnail: "/thumbnailjacket3.png",
-        jacket: "/jacket3.png",
+        thumbnail: "/thumbnailweight3.png",
+        weight: "/weight3.png",
     },
 ];
 

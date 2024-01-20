@@ -1,12 +1,12 @@
 import CountUp from 'react-countup'
 import './Hero.css'
-import { jacketsData } from '../../constants'
-import jacket1 from '/jacket1.png'
-import JacketCard from '../../components/JacketCard'
+import { weightsData } from '../../constants'
+import weight1 from '/weight1.png'
+import WeightCard from '../../components/WeightCard'
 import { useState } from 'react'
 
 const Hero = () => {
-  const [jacketImg, setjacketImg] = useState(jacket1);
+  const [weightImg, setweightImg] = useState(weight1);
   return (
     <section id="hero">
       <div className="hero-container container">
@@ -32,15 +32,15 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-right">
-          <img src={jacketImg} alt="" />
+          <img src={weightImg} alt="" />
           <div className="hero-right-container">
             {
-              jacketsData.map((jacket, i) => (
+              weightsData.map((weight, i) => (
                 <div key={i}>
-                  <JacketCard
-                    imgURL={jacket}
-                    changeJacketImage={(jacket) => setjacketImg(jacket)}
-                    jacketImg={jacketImg}
+                  <WeightCard
+                    imgURL={weight}
+                    changeWeightImage={(weight) => setweightImg(weight)}
+                    weighttImg={weightImg}
                   />
                 </div>
               ))

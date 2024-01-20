@@ -1,11 +1,11 @@
-const JacketCard = ({ imgURL, changeJacketImage, jacketImg }) => {
+const WeightCard = ({ imgURL, changeWeightImage, weightImg }) => {
     const handleClick = () => {
-        if (jacketImg !== imgURL.jacket) {
-            changeJacketImage(imgURL.jacket)
+        if (weightImg !== imgURL.weight) {
+            changeWeightImage(imgURL.weight)
         }
     };
     return (
-        <div className={`${jacketImg === imgURL.jacket ?
+        <div className={`${weightImg === imgURL.weight ?
             'border-primary' : 'border-transparent'
             }selection-container`} onClick={ handleClick }>
             <div className="selection-card">
@@ -15,4 +15,4 @@ const JacketCard = ({ imgURL, changeJacketImage, jacketImg }) => {
     )
 }
 
-export default JacketCard
+export default WeightCard
