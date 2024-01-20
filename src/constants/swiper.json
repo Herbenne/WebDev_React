@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "imgURL": "./item1.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 100,
+        "old": 150,
+        "quantity": 1
+    },
+    {
+        "id": "2",
+        "imgURL": "./item2.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 19,
+        "old": 109,
+        "quantity": 1
+    },
+    {
+        "id": "3",
+        "imgURL": "./item3.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 10,
+        "old": 100,
+        "quantity": 1
+    },
+    {
+        "id": "4",
+        "imgURL": "./item4.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 100,
+        "old": 150,
+        "quantity": 1
+    },
+    {
+        "id": "5",
+        "imgURL": "./item5.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 100,
+        "old": 150,
+        "quantity": 1
+    },
+    {
+        "id": "6",
+        "imgURL": "./item6.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 99,
+        "old": 109,
+        "quantity": 1
+    },
+    {
+        "id": "7",
+        "imgURL": "./item7.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 80,
+        "old": 100,
+        "quantity": 1
+    },
+    {
+        "id": "8",
+        "imgURL": "./item8.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 70,
+        "old": 100,
+        "quantity": 1
+    },
+    {
+        "id": "9",
+        "imgURL": "./item9.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 60,
+        "old": 100,
+        "quantity": 1
+    },
+    {
+        "id": "10",
+        "imgURL": "./item10.png",
+        "name": "Weights",
+        "category": "CATEGORY",
+        "price": 50,
+        "old": 100,
+        "quantity": 1
+    }
+]
