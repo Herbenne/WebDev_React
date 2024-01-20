@@ -32,32 +32,6 @@ export const categoryData = [
     },
 ];
 
-export const blogData = [
-    {
-        imgURL: "/blog1.jpg",
-        ctg: 'Fashion', 
-        title: 'Top 10 Deals', 
-        info: 'By Mr Admin - 07 Sep, 2023'
-    },
-    {
-        imgURL: "/blog2.jpg",
-        ctg: 'Trends',         
-        title: 'How to look beautiful', 
-        info: 'By Mr Admin - 17 Sep, 2023'
-    },
-    {
-        imgURL: "/blog3.jpg",
-        ctg: 'Deals',         
-        title: 'Hot Summer Collection', 
-        info: 'By Mr Admin - 27 Sep, 2023'
-    },
-    {
-        imgURL: "/blog4.jpg",
-        ctg: 'Collection',         
-        title: 'Ideas to improve life', 
-        info: 'By Mr Admin - 29 Sep, 2023'
-    }
-]
  
 export const swiperSettings = {
     slidesPerView: 1, 
