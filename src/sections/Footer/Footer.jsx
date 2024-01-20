@@ -15,23 +15,16 @@ const Footer = () => {
           <div className="footer-title">Quick Links</div>
           <div className="footer-row">
             <div className="col">
-              <li><a href="">Sell Online</a></li>
+              <li><a href="">Home</a></li>
               <li><a href="">Features</a></li>
-              <li><a href="">categories</a></li>
+              <li><a href="">Categories</a></li>
               <li><a href="">Deals</a></li>
-              <li><a href="">Latest Trends</a></li>
-            </div>
-            <div className="col">
-              <li><a href="">Brands</a></li>
-              <li><a href="">Return</a></li>
-              <li><a href="">privacy policy</a></li>
-              <li><a href="">deals</a></li>
-              <li><a href="">trends</a></li>
+              <li><a href="">Shop</a></li>
             </div>
             <div className="col">
               <li><a href="">Best sales</a></li>
-              <li><a href="">new products</a></li>
-              <li><a href="">contact</a></li>
+              <li><a href="">New products</a></li>
+              <li><a href="">Contact</a></li>
               <li><a href="">Terms Service</a></li>
               <li><a href="">Latest Trends</a></li>
             </div>
@@ -39,9 +32,9 @@ const Footer = () => {
         </div>
         <div className="footer-box">
           <h5 className="footer-title">Contact us</h5>
-          <p><span><RiMapPinFill/></span> 1737 Mcdonld Rd NY</p>
-          <p><span><RiPhoneFill/></span> 0123456789</p>
-          <p><span><RiMailFill/></span> info@yoursite.com</p>
+          <p><span><RiMapPinFill/></span> Makati City</p>
+          <p><span><RiPhoneFill/></span> +63 912 3456 894</p>
+          <p><span><RiMailFill/></span> gymrat@gmail.com</p>
         </div>
       </div>
     </footer>

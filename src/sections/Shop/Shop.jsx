@@ -5,20 +5,20 @@ import 'swiper/css';
 import data from '../../constants/swiper.json';
 import { RiEyeLine, RiHeartLine, RiShoppingCartLine, RiStarFill, RiStarLine } from 'react-icons/ri';
 import { swiperSettings } from '../../constants';
-import Cart from './Cart'; // Import the Cart component
-import { CartContext } from './CartContext'; // Assuming you have a context for the cart
+import Cart from './Cart'; 
+import { CartContext } from './CartContext'; 
 
 const Shop = () => {
   const [isCartVisible, setIsCartVisible] = useState(false);
-  const { addToCart } = useContext(CartContext); // Assuming you have a method to add items to the cart
+  const { addToCart } = useContext(CartContext); 
 
   const toggleCart = () => {
     setIsCartVisible(!isCartVisible);
   };
 
   const handleAddToCart = (item) => {
-    // You can modify this part to allow users to choose the quantity
-    const quantity = 1; // Default quantity
+    
+    const quantity = 1; 
     addToCart(item, quantity);
   };
 
@@ -26,7 +26,7 @@ const Shop = () => {
     <section id="shop">
       <div className="shop-container container">
         <div className="title">
-          <h2>New Arrivals</h2>
+          <h2>Best Sellers</h2>
         </div>
         <Swiper {...swiperSettings}>
           {data.map((card, i) => (
