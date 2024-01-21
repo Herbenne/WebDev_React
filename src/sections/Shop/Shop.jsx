@@ -48,7 +48,6 @@ const Shop = () => {
                 </div>
                 <div className="card-buttons">
                   <button className="btn" onClick={() => handleAddToCart(card)}>Add to cart</button>
-                  <button className="btn">View details</button>
                 </div>
                 <div className="card-icons">
                   <RiHeartLine />
