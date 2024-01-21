@@ -15,10 +15,10 @@
   --color-light: hsl(0, 0%, 92%);
   --color-dark: hsl(270, 5%, 44%);
   --color-black: hsl(270, 5%, 15%);
-  --color-bg: hsl(210, 17%, 98%);
-  --color-bg-1: hsl(234 80% 91%);
-  --color-primary: hsl(235, 81%, 77%);
-  --color-secondary: hsl(244, 74%, 61%);
+  --color-bg: hsl(40, 20%, 98%);
+  --color-bg-1: hsl(40, 100%, 93%);
+  --color-primary: hsl(40, 81%, 77%);
+  --color-secondary: hsl(40, 74%, 61%);
 
   --box-shadow: 0 5px 20px -7px rgba(0, 0, 0, 0.9);
   /*CONTAINER VARIABLES */
