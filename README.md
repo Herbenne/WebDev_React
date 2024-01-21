@@ -1,2 +1,11 @@
 # WebDev_React
-Collaboration in WebDev React
+
+Group Members:
+
+    Dichosa, Immanuel
+    Flores, Bastian Bragi
+    Oreas, Nyl Bhoy
+
+Group Leader:
+
+    Somo, Herbenne Rey
