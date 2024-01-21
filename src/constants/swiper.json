@@ -2,35 +2,35 @@
     {
         "id": "1",
         "imgURL": "./item1.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 100,
-        "old": 150,
+        "name": "Bench Press",
+        "category": "MACHINES",
+        "price": 15000,
+        "old": 20000,
         "quantity": 1
     },
     {
         "id": "2",
         "imgURL": "./item2.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 19,
+        "name": "30kg Dumbbells",
+        "category": "DUMBBELLS",
+        "price": 30,
         "old": 109,
         "quantity": 1
     },
     {
         "id": "3",
         "imgURL": "./item3.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 10,
-        "old": 100,
+        "name": "15.9kg Plates",
+        "category": "PLATES",
+        "price": 90,
+        "old": 300,
         "quantity": 1
     },
     {
         "id": "4",
         "imgURL": "./item4.png",
-        "name": "Weights",
-        "category": "CATEGORY",
+        "name": "Serious Mass",
+        "category": "SUPPLEMENTS",
         "price": 100,
         "old": 150,
         "quantity": 1
@@ -38,26 +38,26 @@
     {
         "id": "5",
         "imgURL": "./item5.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 100,
-        "old": 150,
+        "name": "Threadmill",
+        "category": "MACHINES",
+        "price": 10000,
+        "old": 25000,
         "quantity": 1
     },
     {
         "id": "6",
         "imgURL": "./item6.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 99,
-        "old": 109,
+        "name": "Light dumbbells",
+        "category": "WEIGHTS",
+        "price": 40,
+        "old": 55,
         "quantity": 1
     },
     {
         "id": "7",
         "imgURL": "./item7.png",
-        "name": "Weights",
-        "category": "CATEGORY",
+        "name": "Iso-pro Whey",
+        "category": "SUPPLEMENTS",
         "price": 80,
         "old": 100,
         "quantity": 1
@@ -65,28 +65,28 @@
     {
         "id": "8",
         "imgURL": "./item8.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 70,
-        "old": 100,
+        "name": "31lb Dumbbells",
+        "category": "DUMBBELLS",
+        "price": 20,
+        "old": 30,
         "quantity": 1
     },
     {
         "id": "9",
         "imgURL": "./item9.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 60,
-        "old": 100,
+        "name": "Multi-purpose Cable Machine",
+        "category": "MACHINES",
+        "price": 20000,
+        "old": 45000,
         "quantity": 1
     },
     {
         "id": "10",
         "imgURL": "./item10.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 50,
-        "old": 100,
+        "name": "Triple Plates",
+        "category": "PLATES",
+        "price": 200,
+        "old": 400,
         "quantity": 1
     }
 ]
