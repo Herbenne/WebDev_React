@@ -65,28 +65,28 @@
     {
         "id": "8",
         "imgURL": "./item8.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 70,
-        "old": 100,
+        "name": "31lb Dumbbells",
+        "category": "DUMBBELLS",
+        "price": 20,
+        "old": 30,
         "quantity": 1
     },
     {
         "id": "9",
         "imgURL": "./item9.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 60,
-        "old": 100,
+        "name": "Multi-purpose Cable Machine",
+        "category": "MACHINES",
+        "price": 20000,
+        "old": 45000,
         "quantity": 1
     },
     {
         "id": "10",
         "imgURL": "./item10.png",
-        "name": "Weights",
-        "category": "CATEGORY",
-        "price": 50,
-        "old": 100,
+        "name": "Triple Plates",
+        "category": "PLATES",
+        "price": 200,
+        "old": 400,
         "quantity": 1
     }
 ]
