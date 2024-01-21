@@ -56,8 +56,8 @@
     {
         "id": "7",
         "imgURL": "./item7.png",
-        "name": "Weights",
-        "category": "CATEGORY",
+        "name": "Iso-pro Whey",
+        "category": "SUPPLEMENTS",
         "price": 80,
         "old": 100,
         "quantity": 1
