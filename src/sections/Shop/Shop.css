@@ -18,6 +18,8 @@
 }
 .item-card img{
     width: 100%;
+    height: 180px;
+    overflow: hidden;
     max-width: 15rem;
     background: url(/bgthumbnail.png);
     background-size: cover;
