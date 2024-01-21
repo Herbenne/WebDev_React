@@ -44,6 +44,7 @@
 .fav-icon,
 .cart-icon{
     position: relative;
+    font-size: 1.3rem;
 }
 .fav-icon .count{
     position: absolute;

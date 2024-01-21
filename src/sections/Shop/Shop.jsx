@@ -10,6 +10,7 @@ import { CartContext } from './CartContext';
 
 const Shop = () => {
   const [isCartVisible, setIsCartVisible] = useState(false);
+  const [zoomedImage, setZoomedImage] = useState(null);
   const { addToCart } = useContext(CartContext); 
 
   const toggleCart = () => {
@@ -17,9 +18,16 @@ const Shop = () => {
   };
 
   const handleAddToCart = (item) => {
-    
     const quantity = 1; 
     addToCart(item, quantity);
+  };
+
+  const openZoomedImage = (imgURL) => {
+    setZoomedImage(imgURL);
+  };
+
+  const closeZoomedImage = () => {
+    setZoomedImage(null);
   };
 
   return (
@@ -48,10 +56,11 @@ const Shop = () => {
                 </div>
                 <div className="card-buttons">
                   <button className="btn" onClick={() => handleAddToCart(card)}>Add to cart</button>
+                  <button className="btn" onClick={() => openZoomedImage(card.imgURL)}>View details</button>
                 </div>
                 <div className="card-icons">
                   <RiHeartLine />
-                  <RiEyeLine />
+                  <RiEyeLine onClick={() => openZoomedImage(card.imgURL)} />
                   <RiShoppingCartLine onClick={toggleCart} />
                 </div>
               </div>
@@ -60,6 +69,11 @@ const Shop = () => {
         </Swiper>
       </div>
       {isCartVisible && <Cart closeCart={toggleCart} />}
+      {zoomedImage && (
+        <div className="zoom-overlay" onClick={closeZoomedImage}>
+          <img src={zoomedImage} alt="Zoomed In" />
+        </div>
+      )}
     </section>
   );
 };

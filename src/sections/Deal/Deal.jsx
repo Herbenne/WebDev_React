@@ -10,7 +10,7 @@ const Deal = () => {
         <div className="deal-right">
           <h4>Sore today, strong tomorrow.</h4>
           <h1>NEW YEAR SALE DISCOUNT</h1>
-          <button className="btn">Shop Now</button>
+          <button className="btn"><a href="#shop">Shop Now</a></button>
         </div>
       </div>
     </section>
