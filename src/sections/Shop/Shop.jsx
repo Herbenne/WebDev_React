@@ -43,7 +43,7 @@ const Shop = () => {
                   <RiStarLine />
                 </div>
                 <div className="price">
-                  <span>${card.price}</span>
+                  <span>₱{card.price}</span>
                   <span className="old-price">{card.old}</span>
                 </div>
                 <div className="card-buttons">

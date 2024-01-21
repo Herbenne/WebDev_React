@@ -11,8 +11,10 @@ const Hero = () => {
     <section id="hero">
       <div className="hero-container container">
         <div className="hero-left">
-          <h1>Finding Your Perfect Items</h1>
+
+          <h1>Empower Your Fitness Journey! </h1>
           <p>Discover your ideal gym essentials effortlessly with Weight Shop – where finding your perfect items is just a click away!</p>
+
           <button className='btn'>Shop now</button>
           <div className="hero-stats">
             <div className="stat-box">
