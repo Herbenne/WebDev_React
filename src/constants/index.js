@@ -17,18 +17,22 @@ export const categoryData = [
     {
         imgURL: '/ctg1.png',
         title: "Machines",
+        link: "https://en.wikipedia.org/wiki/Weight",
     },
     {
         imgURL: '/ctg2.png',
         title: "Dumbells",
+        link: "https://en.wikipedia.org/wiki/Dumbbell",
     },
     {
         imgURL: '/ctg3.png',
         title: "Supplements",
+        link: "https://en.wikipedia.org/wiki/Supplement",
     },
     {
         imgURL: '/ctg4.png',
         title: "Plates",
+        link: "https://en.wikipedia.org/wiki/Weight_plate",
     },
 ];
 
