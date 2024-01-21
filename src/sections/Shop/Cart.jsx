@@ -43,7 +43,7 @@ const Cart = ({ closeCart }) => {
                         ))}
                     </ul>
                     <div className="cart-summary">
-                        <p>Total: ${getTotalPrice().toFixed(2)}</p>
+                        <p>Total: ₱{getTotalPrice().toFixed(2)}</p>
                         <button className="checkout-button" onClick={handleCheckout}>Checkout</button>
                     </div>
                 </>
