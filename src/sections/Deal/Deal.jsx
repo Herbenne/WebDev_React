@@ -8,8 +8,8 @@ const Deal = () => {
           <img src="/banner.png" alt="" />
         </div>
         <div className="deal-right">
-          <h4>#New Year, New Gym Equipments</h4>
-          <h1>Up to 50% Off</h1>
+          <h4>Sore today, strong tomorrow.</h4>
+          <h1>NEW YEAR SALE DISCOUNT</h1>
           <button className="btn">Shop Now</button>
         </div>
       </div>
