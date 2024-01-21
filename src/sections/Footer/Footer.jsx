@@ -21,10 +21,10 @@ const Footer = () => {
               <li><a href="#deal">Deals</a></li>
             </div>
             <div className="col">
-              <li><a href="#shop">Shop</a></li>
-              <li><a href="#deal">Best sales</a></li>
+              <li><a href="#deal">Shop</a></li>
+              <li><a href="#shop">Best sales</a></li>
               <li><a href="#contact">Contact</a></li>
-              <li><a href="#ToS">Terms Service</a></li>
+              <li><a href="ToS">Terms Service</a></li>
             </div>
           </div>
         </div>
