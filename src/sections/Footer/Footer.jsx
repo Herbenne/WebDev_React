@@ -15,16 +15,16 @@ const Footer = () => {
           <div className="footer-title">Quick Links</div>
           <div className="footer-row">
             <div className="col">
-              <li><a href="home">Home</a></li>
-              <li><a href="features">Features</a></li>
-              <li><a href="categories">Categories</a></li>
-              <li><a href="deal">Deals</a></li>
+              <li><a href="#home">Home</a></li>
+              <li><a href="#features">Features</a></li>
+              <li><a href="#categories">Categories</a></li>
+              <li><a href="#deal">Deals</a></li>
             </div>
             <div className="col">
-              <li><a href="shop">Shop</a></li>
-              <li><a href="deal">Best sales</a></li>
-              <li><a href="contact">Contact</a></li>
-              <li><a href="ToS">Terms Service</a></li>
+              <li><a href="#shop">Shop</a></li>
+              <li><a href="#deal">Best sales</a></li>
+              <li><a href="#contact">Contact</a></li>
+              <li><a href="#ToS">Terms Service</a></li>
             </div>
           </div>
         </div>
