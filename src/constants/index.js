@@ -24,7 +24,7 @@ export const categoryData = [
     },
     {
         imgURL: '/ctg3.png',
-        title: "Bars",
+        title: "Supplements",
     },
     {
         imgURL: '/ctg4.png',
