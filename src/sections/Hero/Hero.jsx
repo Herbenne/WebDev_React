@@ -11,8 +11,8 @@ const Hero = () => {
     <section id="hero">
       <div className="hero-container container">
         <div className="hero-left">
-          <h1>Finding Your Perfect Items</h1>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas id minima facere debitis facilis nesciunt?</p>
+          <h1>Empower Your Fitness Journey! </h1>
+          <p>Welcome to Weight Shop, your ultimate destination for fitness excellence. Discover the ideal gym equipment and supplements that align with your goals, empowering you to reach new heights in your fitness journey. Our curated selection ensures top-notch quality, providing the tools you need to elevate your workouts and achieve peak performance. </p>
           <button className='btn'>Shop now</button>
           <div className="hero-stats">
             <div className="stat-box">
