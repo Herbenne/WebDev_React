@@ -13,8 +13,8 @@
         "imgURL": "./item2.png",
         "name": "30kg Dumbbells",
         "category": "DUMBBELLS",
-        "price": 30,
-        "old": 109,
+        "price": 799,
+        "old": 1000,
         "quantity": 1
     },
     {
@@ -22,8 +22,8 @@
         "imgURL": "./item3.png",
         "name": "15.9kg Plates",
         "category": "PLATES",
-        "price": 90,
-        "old": 300,
+        "price": 499,
+        "old": 700,
         "quantity": 1
     },
     {
@@ -31,8 +31,8 @@
         "imgURL": "./item4.png",
         "name": "Serious Mass",
         "category": "SUPPLEMENTS",
-        "price": 100,
-        "old": 150,
+        "price": 1500,
+        "old": 2000,
         "quantity": 1
     },
     {
@@ -40,7 +40,7 @@
         "imgURL": "./item5.png",
         "name": "Threadmill",
         "category": "MACHINES",
-        "price": 10000,
+        "price": 18999,
         "old": 25000,
         "quantity": 1
     },
@@ -49,8 +49,8 @@
         "imgURL": "./item6.png",
         "name": "Light dumbbells",
         "category": "WEIGHTS",
-        "price": 40,
-        "old": 55,
+        "price": 299,
+        "old": 400,
         "quantity": 1
     },
     {
@@ -58,8 +58,8 @@
         "imgURL": "./item7.png",
         "name": "Iso-pro Whey",
         "category": "SUPPLEMENTS",
-        "price": 80,
-        "old": 100,
+        "price": 999,
+        "old": 1500,
         "quantity": 1
     },
     {
@@ -67,8 +67,8 @@
         "imgURL": "./item8.png",
         "name": "31lb Dumbbells",
         "category": "DUMBBELLS",
-        "price": 20,
-        "old": 30,
+        "price": 358,
+        "old": 420,
         "quantity": 1
     },
     {
@@ -85,8 +85,8 @@
         "imgURL": "./item10.png",
         "name": "Triple Plates",
         "category": "PLATES",
-        "price": 200,
-        "old": 400,
+        "price": 600,
+        "old": 800,
         "quantity": 1
     }
 ]
