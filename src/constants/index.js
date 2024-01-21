@@ -17,18 +17,22 @@ export const categoryData = [
     {
         imgURL: '/ctg1.png',
         title: "Machines",
+        link: "https://sfhealthtech.com/collections/strength-machines",
     },
     {
         imgURL: '/ctg2.png',
         title: "Dumbells",
+        link: "https://sfhealthtech.com/collections/barbells-plates",
     },
     {
         imgURL: '/ctg3.png',
         title: "Supplements",
+        link: "https://www.wheykingsupplements.com/collections/mass-gainers#",
     },
     {
         imgURL: '/ctg4.png',
         title: "Plates",
+        link: "https://sfhealthtech.com/collections/barbells-plates",
     },
 ];
 

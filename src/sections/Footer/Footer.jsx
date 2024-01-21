@@ -8,8 +8,8 @@ const Footer = () => {
         <div className="footer-box">
           <div className="footer-title">Promo</div>
           <img src="/footer.jpg" alt="" />
-          <h4>New Gym Equipments in 2024</h4>
-          <p>Promo from Jan 1 2024</p>
+          <h4>Revolutionize Your Workout: Unveiling 2024's Hottest Gym Gear!</h4>
+          <p>Promo Only last this month - January</p>
         </div>
         <div className="footer-box">
           <div className="footer-title">Quick Links</div>

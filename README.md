@@ -2,10 +2,10 @@
 
 Group Members:
 
-    Dichosa, Immanuel
-    Flores, Bastian Bragi
-    Oreas, Nyl Bhoy
+    Dichosa, Immanuel - ideas, polish, merge conflicts
+    Flores, Bastian Bragi - design, pictures/images
+    Oreas, Nyl Bhoy - design, descriptions
 
 Group Leader:
 
-    Somo, Herbenne Rey
+    Somo, Herbenne Rey - main programmer
