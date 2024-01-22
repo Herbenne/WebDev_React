@@ -42,8 +42,8 @@ const Navbar = () => {
                     <ul className="navlist">
                         <li><a href="#home">home</a></li>
                         <li><a href="#categories">categories</a></li>
-                        <li><a href="#deal">shop</a></li>
-                        <li><a href="#shop">deal</a></li>
+                        <li><a href="#shop">shop</a></li>
+                        <li><a href="#deal">deal</a></li>
                         <li><a href="#contact">contact</a></li>
                     </ul>
                 </div>
@@ -56,8 +56,6 @@ const Navbar = () => {
                             <li><a href="#categories">categories</a></li>
                             <li><a href="#shop">shop</a></li>
                             <li><a href="#deal">deal</a></li>
-                            <li><a href="#testimonial">testimonial</a></li>
-                            <li><a href="#blog">blog</a></li>
                             <li><a href="#contact">contact</a></li>
                         </ul>
                         <div className="menu-btn">
